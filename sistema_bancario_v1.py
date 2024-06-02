@@ -56,7 +56,6 @@ while True:
         print(f"\n Saldo: R$ {saldo:.2f}")
         print("#############################")
 
-        
     elif opcao == "q":
         break
     else:
